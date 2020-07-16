@@ -14,6 +14,6 @@ public class DriverTest {
         test.testTwo();
         System.out.print("Enter input: ");
         scanIn = scanner.next();
-        System.out.println(scanIn + " Is in test method one");
+        System.out.println(scanIn + " Is in the main loop");
     }
 }
